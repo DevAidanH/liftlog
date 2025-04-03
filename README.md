@@ -20,12 +20,9 @@ LiftLog is a lightweight and minimalist workout app built in Flutter. It allows 
 |------------|------------|--------------|  
 | ![Home Screen](/screenshots/workoutScreen.jpg?raw=true ) | ![Edit an exercise](/screenshots/editExercise.jpg?raw=true ) |  ![Add a new exercise](/screenshots/addExercise.jpg?raw=true ) |
 
-
-
-
-
-
-
+## Update 1.0 
+Added a the ability for users to reorganize their workouts with drag-and-drop
+![Splash Screen](/screenshots/dragGif.gif?raw=true)
 
 ##  How to Run the Project
 
