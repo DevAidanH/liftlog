@@ -1,0 +1,2 @@
+C:/Users/aidan/Documents/Projects/WorkoutTracker/WorkoutTracker/android/app/.cxx/RelWithDebInfo/64122t3a/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/aidan/Documents/Projects/WorkoutTracker/WorkoutTracker/android/app/.cxx/RelWithDebInfo/64122t3a/armeabi-v7a/CMakeFiles/rebuild_cache.dir
